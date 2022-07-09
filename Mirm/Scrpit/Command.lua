@@ -1,4 +1,5 @@
 --жпнд©Б2.1
+--https://goodsleep1.github.io/Scrpit/Command.lua
 function ToStringEx(value)
     if type(value)=='table' then
        return TableToStr(value)
